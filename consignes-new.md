@@ -68,6 +68,18 @@ date: 04 et 05 avril 2022
 
 ---
 
+### Les users stories
+
+ <center>
+
+ <img src="img/User-Story-Card.png" alt="Une user story du projet" style="height: 300px; border:0; background: None; box-shadow: None" />
+
+Exemple d'user story
+
+ </center>
+
+---
+
 ### Les aides
 
  <center>
